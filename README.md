@@ -3,11 +3,11 @@
 </div>
  
 
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+<h1 data-importer="text" align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p data-importer="text" align="left">My name is Shivani Yadav and I'm a AI Engineer, from Roorkee.</p>
+<h1 data-importer="text" align="left">My name is Shivani Yadav and I'm a AI Engineer, from Roorkee.</h1>
 
 ###
 
