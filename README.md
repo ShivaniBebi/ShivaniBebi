@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://media.tenor.com/4z6I_eTZanwAAAAi/screaming-tom-lizard.gif" width="250" />
+  <img src="https://media.tenor.com/4z6I_eTZanwAAAAi/screaming-tom-lizard.gif" width="150" />
 </div>
 <div align="center">
-  <img src="https://media.tenor.com/4z6I_eTZanwAAAAi/screaming-tom-lizard.gif" width="200" />
+  <img src="https://media.tenor.com/4z6I_eTZanwAAAAi/screaming-tom-lizard.gif" width="150" />
 </div>
 
 <h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
