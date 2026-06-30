@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://media.tenor.com/4z6I_eTZanwAAAAi/screaming-tom-lizard.gif" width="150" />
+  <img src="https://media1.tenor.com/m/uqInep2IaHoAAAAd/hoppers-mabel-tanaka.gif" width="100%" />
 </div>
-<div align="center">
-  <img src="https://media.tenor.com/4z6I_eTZanwAAAAi/screaming-tom-lizard.gif" width="150" />
-</div>
+ 
 
 <h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
