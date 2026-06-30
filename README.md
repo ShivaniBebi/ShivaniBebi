@@ -15,7 +15,7 @@
 
 ###
 
-<p data-importer="text" align="left" size ="50"> ✨ Creating AI-powered solutions with Python and Machine Learning.<br>📚 Currently exploring LLMs, RAG, Agentic AI, and Deep Learning.<br>🎯 Goal: Land a top AI/ML role and develop products that solve real-world problems.<br>🎲 Fun fact: I love experimenting with AI tools and participating in hackathons.</p>
+<h3 data-importer="text" align="left"> ✨ Creating AI-powered solutions with Python and Machine Learning.<br>📚 Currently exploring LLMs, RAG, Agentic AI, and Deep Learning.<br>🎯 Goal: Land a top AI/ML role and develop products that solve real-world problems.<br>🎲 Fun fact: I love experimenting with AI tools and participating in hackathons.</h3>
 
 ###
 
