@@ -3,7 +3,7 @@
 </div>
  
 
-<h1 data-importer="text" align="center">Hey 👋 What's up?</h1>
+<h2 data-importer="text" align="center">Hey 👋 What's up?</h2>
 
 ###
 
