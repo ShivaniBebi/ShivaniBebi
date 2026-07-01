@@ -1,7 +1,5 @@
  <div align="center">
-  <img src="https://i.pinimg.com/originals/31/8f/ee/318fee1b17a7c102ccce7bffa604be51.gif"
-       width="300"
-       style="border-radius:50%; border:5px solid #00BFFF;">
+  <img src="https://i.pinimg.com/originals/31/8f/ee/318fee1b17a7c102ccce7bffa604be51.gif" width="300" alt="Doctor GIF">
 </div>
  
 
