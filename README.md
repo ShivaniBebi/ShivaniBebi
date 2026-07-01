@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="https://i.pinimg.com/originals/31/8f/ee/318fee1b17a7c102ccce7bffa604be51.gif" width="300" alt="Doctor GIF">
+  <img src="https://i.pinimg.com/originals/31/8f/ee/318fee1b17a7c102ccce7bffa604be51.gif" width="350" alt="Diabetes AI">
 </div>
  
 
